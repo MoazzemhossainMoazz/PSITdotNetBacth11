@@ -1,0 +1,14 @@
+F:\newcode\ConsoleApp1\AreaOfTriange\bin\Debug\net9.0\AreaOfTriange.exe
+F:\newcode\ConsoleApp1\AreaOfTriange\bin\Debug\net9.0\AreaOfTriange.deps.json
+F:\newcode\ConsoleApp1\AreaOfTriange\bin\Debug\net9.0\AreaOfTriange.runtimeconfig.json
+F:\newcode\ConsoleApp1\AreaOfTriange\bin\Debug\net9.0\AreaOfTriange.dll
+F:\newcode\ConsoleApp1\AreaOfTriange\bin\Debug\net9.0\AreaOfTriange.pdb
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\AreaOfTriange.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\AreaOfTriange.AssemblyInfoInputs.cache
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\AreaOfTriange.AssemblyInfo.cs
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\AreaOfTriange.csproj.CoreCompileInputs.cache
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\AreaOfTriange.dll
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\refint\AreaOfTriange.dll
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\AreaOfTriange.pdb
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\AreaOfTriange.genruntimeconfig.cache
+F:\newcode\ConsoleApp1\AreaOfTriange\obj\Debug\net9.0\ref\AreaOfTriange.dll

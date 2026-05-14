@@ -1,0 +1,14 @@
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\bin\Debug\net9.0\AreaOfCircleRadious.exe
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\bin\Debug\net9.0\AreaOfCircleRadious.deps.json
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\bin\Debug\net9.0\AreaOfCircleRadious.runtimeconfig.json
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\bin\Debug\net9.0\AreaOfCircleRadious.dll
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\bin\Debug\net9.0\AreaOfCircleRadious.pdb
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\AreaOfCircleRadious.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\AreaOfCircleRadious.AssemblyInfoInputs.cache
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\AreaOfCircleRadious.AssemblyInfo.cs
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\AreaOfCircleRadious.csproj.CoreCompileInputs.cache
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\AreaOfCircleRadious.dll
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\refint\AreaOfCircleRadious.dll
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\AreaOfCircleRadious.pdb
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\AreaOfCircleRadious.genruntimeconfig.cache
+F:\newcode\ConsoleApp1\AreaOfCircleRadious\obj\Debug\net9.0\ref\AreaOfCircleRadious.dll

@@ -1,0 +1,14 @@
+F:\newcode\ConsoleApp1\FindaComission\bin\Debug\net9.0\FindaComission.exe
+F:\newcode\ConsoleApp1\FindaComission\bin\Debug\net9.0\FindaComission.deps.json
+F:\newcode\ConsoleApp1\FindaComission\bin\Debug\net9.0\FindaComission.runtimeconfig.json
+F:\newcode\ConsoleApp1\FindaComission\bin\Debug\net9.0\FindaComission.dll
+F:\newcode\ConsoleApp1\FindaComission\bin\Debug\net9.0\FindaComission.pdb
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\FindaComission.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\FindaComission.AssemblyInfoInputs.cache
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\FindaComission.AssemblyInfo.cs
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\FindaComission.csproj.CoreCompileInputs.cache
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\FindaComission.dll
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\refint\FindaComission.dll
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\FindaComission.pdb
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\FindaComission.genruntimeconfig.cache
+F:\newcode\ConsoleApp1\FindaComission\obj\Debug\net9.0\ref\FindaComission.dll

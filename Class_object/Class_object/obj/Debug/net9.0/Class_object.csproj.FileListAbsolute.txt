@@ -1,0 +1,14 @@
+F:\newcode\Class_object\Class_object\bin\Debug\net9.0\Class_object.exe
+F:\newcode\Class_object\Class_object\bin\Debug\net9.0\Class_object.deps.json
+F:\newcode\Class_object\Class_object\bin\Debug\net9.0\Class_object.runtimeconfig.json
+F:\newcode\Class_object\Class_object\bin\Debug\net9.0\Class_object.dll
+F:\newcode\Class_object\Class_object\bin\Debug\net9.0\Class_object.pdb
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\Class_object.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\Class_object.AssemblyInfoInputs.cache
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\Class_object.AssemblyInfo.cs
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\Class_object.csproj.CoreCompileInputs.cache
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\Class_object.dll
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\refint\Class_object.dll
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\Class_object.pdb
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\Class_object.genruntimeconfig.cache
+F:\newcode\Class_object\Class_object\obj\Debug\net9.0\ref\Class_object.dll

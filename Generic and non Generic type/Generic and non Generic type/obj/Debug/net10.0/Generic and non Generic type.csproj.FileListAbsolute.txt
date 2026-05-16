@@ -1,0 +1,14 @@
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\bin\Debug\net10.0\Generic and non Generic type.exe
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\bin\Debug\net10.0\Generic and non Generic type.deps.json
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\bin\Debug\net10.0\Generic and non Generic type.runtimeconfig.json
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\bin\Debug\net10.0\Generic and non Generic type.dll
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\bin\Debug\net10.0\Generic and non Generic type.pdb
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\Generic and non Generic type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\Generic and non Generic type.AssemblyInfoInputs.cache
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\Generic and non Generic type.AssemblyInfo.cs
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\Generic and non Generic type.csproj.CoreCompileInputs.cache
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\Generic and non Generic type.dll
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\refint\Generic and non Generic type.dll
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\Generic and non Generic type.pdb
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\Generic and non Generic type.genruntimeconfig.cache
+C:\Users\PowersoftIT\source\repos\Generic and non Generic type\Generic and non Generic type\obj\Debug\net10.0\ref\Generic and non Generic type.dll

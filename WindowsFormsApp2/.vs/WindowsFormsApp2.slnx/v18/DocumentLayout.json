@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\powersoftit\\source\\repos\\windowsformsapp2\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\powersoftit\\source\\repos\\windowsformsapp2\\windowsformsapp2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\powersoftit\\source\\repos\\windowsformsapp2\\windowsformsapp2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\powersoftit\\source\\repos\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\powersoftit\\source\\repos\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{336802E2-6861-44AA-8230-613BF6158606}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs*",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T13:24:31.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Calculator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Calculator.cs",
+              "ToolTip": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Calculator.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Calculator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:16:18.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Calculator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Calculator.cs",
+              "ToolTip": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Calculator.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:12:03.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvxwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T10:58:31.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\PowersoftIT\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T10:56:59.105Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

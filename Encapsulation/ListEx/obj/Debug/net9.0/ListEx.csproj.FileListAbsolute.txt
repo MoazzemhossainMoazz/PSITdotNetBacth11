@@ -1,0 +1,14 @@
+F:\newcode\Encapsulation\ListEx\bin\Debug\net9.0\ListEx.exe
+F:\newcode\Encapsulation\ListEx\bin\Debug\net9.0\ListEx.deps.json
+F:\newcode\Encapsulation\ListEx\bin\Debug\net9.0\ListEx.runtimeconfig.json
+F:\newcode\Encapsulation\ListEx\bin\Debug\net9.0\ListEx.dll
+F:\newcode\Encapsulation\ListEx\bin\Debug\net9.0\ListEx.pdb
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ListEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ListEx.AssemblyInfoInputs.cache
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ListEx.AssemblyInfo.cs
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ListEx.csproj.CoreCompileInputs.cache
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ListEx.dll
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\refint\ListEx.dll
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ListEx.pdb
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ListEx.genruntimeconfig.cache
+F:\newcode\Encapsulation\ListEx\obj\Debug\net9.0\ref\ListEx.dll

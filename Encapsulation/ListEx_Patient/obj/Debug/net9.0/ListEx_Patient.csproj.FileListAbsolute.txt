@@ -1,0 +1,14 @@
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ListEx_Patient.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ListEx_Patient.AssemblyInfoInputs.cache
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ListEx_Patient.AssemblyInfo.cs
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ListEx_Patient.csproj.CoreCompileInputs.cache
+F:\newcode\Encapsulation\ListEx_Patient\bin\Debug\net9.0\ListEx_Patient.exe
+F:\newcode\Encapsulation\ListEx_Patient\bin\Debug\net9.0\ListEx_Patient.deps.json
+F:\newcode\Encapsulation\ListEx_Patient\bin\Debug\net9.0\ListEx_Patient.runtimeconfig.json
+F:\newcode\Encapsulation\ListEx_Patient\bin\Debug\net9.0\ListEx_Patient.dll
+F:\newcode\Encapsulation\ListEx_Patient\bin\Debug\net9.0\ListEx_Patient.pdb
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ListEx_Patient.dll
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\refint\ListEx_Patient.dll
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ListEx_Patient.pdb
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ListEx_Patient.genruntimeconfig.cache
+F:\newcode\Encapsulation\ListEx_Patient\obj\Debug\net9.0\ref\ListEx_Patient.dll

@@ -1,0 +1,14 @@
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\bin\Debug\net9.0\ConsoleBaseCalculator.exe
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\bin\Debug\net9.0\ConsoleBaseCalculator.deps.json
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\bin\Debug\net9.0\ConsoleBaseCalculator.runtimeconfig.json
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\bin\Debug\net9.0\ConsoleBaseCalculator.dll
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\bin\Debug\net9.0\ConsoleBaseCalculator.pdb
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ConsoleBaseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ConsoleBaseCalculator.AssemblyInfoInputs.cache
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ConsoleBaseCalculator.AssemblyInfo.cs
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ConsoleBaseCalculator.csproj.CoreCompileInputs.cache
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ConsoleBaseCalculator.dll
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\refint\ConsoleBaseCalculator.dll
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ConsoleBaseCalculator.pdb
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ConsoleBaseCalculator.genruntimeconfig.cache
+F:\newcode\ConsoleBaseCalculator\ConsoleBaseCalculator\obj\Debug\net9.0\ref\ConsoleBaseCalculator.dll

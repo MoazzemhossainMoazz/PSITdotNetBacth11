@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialCounter", "SerialCounter\SerialCounter.csproj", "{11FE3246-171A-4F74-8635-BA82F864FA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Patient", "Add Patient\Add Patient.csproj", "{FB13A22D-356E-4BDF-94BE-CC7175EAA065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serial_Counter", "Serial_Counter\Serial_Counter.csproj", "{90709581-5B9B-41BB-970F-438A238640B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11FE3246-171A-4F74-8635-BA82F864FA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FE3246-171A-4F74-8635-BA82F864FA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FE3246-171A-4F74-8635-BA82F864FA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FE3246-171A-4F74-8635-BA82F864FA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB13A22D-356E-4BDF-94BE-CC7175EAA065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB13A22D-356E-4BDF-94BE-CC7175EAA065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB13A22D-356E-4BDF-94BE-CC7175EAA065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB13A22D-356E-4BDF-94BE-CC7175EAA065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90709581-5B9B-41BB-970F-438A238640B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90709581-5B9B-41BB-970F-438A238640B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90709581-5B9B-41BB-970F-438A238640B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90709581-5B9B-41BB-970F-438A238640B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

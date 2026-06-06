@@ -1,0 +1,10 @@
+F:\newcode\SerialCounter\Add Patient\bin\Debug\Add Patient.exe.config
+F:\newcode\SerialCounter\Add Patient\bin\Debug\Add Patient.exe
+F:\newcode\SerialCounter\Add Patient\bin\Debug\Add Patient.pdb
+F:\newcode\SerialCounter\Add Patient\obj\Debug\Add Patient.csproj.AssemblyReference.cache
+F:\newcode\SerialCounter\Add Patient\obj\Debug\Add_Patient.Form1.resources
+F:\newcode\SerialCounter\Add Patient\obj\Debug\Add_Patient.Properties.Resources.resources
+F:\newcode\SerialCounter\Add Patient\obj\Debug\Add Patient.csproj.GenerateResource.cache
+F:\newcode\SerialCounter\Add Patient\obj\Debug\Add Patient.csproj.CoreCompileInputs.cache
+F:\newcode\SerialCounter\Add Patient\obj\Debug\Add Patient.exe
+F:\newcode\SerialCounter\Add Patient\obj\Debug\Add Patient.pdb

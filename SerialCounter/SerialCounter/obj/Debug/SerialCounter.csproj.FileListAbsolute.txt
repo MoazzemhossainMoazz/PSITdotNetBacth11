@@ -1,0 +1,10 @@
+F:\newcode\SerialCounter\SerialCounter\obj\Debug\SerialCounter.csproj.AssemblyReference.cache
+F:\newcode\SerialCounter\SerialCounter\obj\Debug\SerialCounter.Form1.resources
+F:\newcode\SerialCounter\SerialCounter\obj\Debug\SerialCounter.Properties.Resources.resources
+F:\newcode\SerialCounter\SerialCounter\obj\Debug\SerialCounter.csproj.GenerateResource.cache
+F:\newcode\SerialCounter\SerialCounter\obj\Debug\SerialCounter.csproj.CoreCompileInputs.cache
+F:\newcode\SerialCounter\SerialCounter\bin\Debug\SerialCounter.exe.config
+F:\newcode\SerialCounter\SerialCounter\bin\Debug\SerialCounter.exe
+F:\newcode\SerialCounter\SerialCounter\bin\Debug\SerialCounter.pdb
+F:\newcode\SerialCounter\SerialCounter\obj\Debug\SerialCounter.exe
+F:\newcode\SerialCounter\SerialCounter\obj\Debug\SerialCounter.pdb

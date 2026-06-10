@@ -1,0 +1,14 @@
+F:\newcode\LINQ_Ex\LINQ_Ex\bin\Debug\net9.0\LINQ_Ex.exe
+F:\newcode\LINQ_Ex\LINQ_Ex\bin\Debug\net9.0\LINQ_Ex.deps.json
+F:\newcode\LINQ_Ex\LINQ_Ex\bin\Debug\net9.0\LINQ_Ex.runtimeconfig.json
+F:\newcode\LINQ_Ex\LINQ_Ex\bin\Debug\net9.0\LINQ_Ex.dll
+F:\newcode\LINQ_Ex\LINQ_Ex\bin\Debug\net9.0\LINQ_Ex.pdb
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\LINQ_Ex.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\LINQ_Ex.AssemblyInfoInputs.cache
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\LINQ_Ex.AssemblyInfo.cs
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\LINQ_Ex.csproj.CoreCompileInputs.cache
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\LINQ_Ex.dll
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\refint\LINQ_Ex.dll
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\LINQ_Ex.pdb
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\LINQ_Ex.genruntimeconfig.cache
+F:\newcode\LINQ_Ex\LINQ_Ex\obj\Debug\net9.0\ref\LINQ_Ex.dll

@@ -1,0 +1,14 @@
+F:\newcode\LINQ_Ex\LINQ_Tasks\bin\Debug\net9.0\LINQ_Tasks.exe
+F:\newcode\LINQ_Ex\LINQ_Tasks\bin\Debug\net9.0\LINQ_Tasks.deps.json
+F:\newcode\LINQ_Ex\LINQ_Tasks\bin\Debug\net9.0\LINQ_Tasks.runtimeconfig.json
+F:\newcode\LINQ_Ex\LINQ_Tasks\bin\Debug\net9.0\LINQ_Tasks.dll
+F:\newcode\LINQ_Ex\LINQ_Tasks\bin\Debug\net9.0\LINQ_Tasks.pdb
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\LINQ_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\LINQ_Tasks.AssemblyInfoInputs.cache
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\LINQ_Tasks.AssemblyInfo.cs
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\LINQ_Tasks.csproj.CoreCompileInputs.cache
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\LINQ_Tasks.dll
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\refint\LINQ_Tasks.dll
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\LINQ_Tasks.pdb
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\LINQ_Tasks.genruntimeconfig.cache
+F:\newcode\LINQ_Ex\LINQ_Tasks\obj\Debug\net9.0\ref\LINQ_Tasks.dll

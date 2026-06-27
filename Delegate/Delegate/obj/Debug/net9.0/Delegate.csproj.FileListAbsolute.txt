@@ -1,0 +1,14 @@
+F:\newcode\Delegate\Delegate\bin\Debug\net9.0\Delegate.exe
+F:\newcode\Delegate\Delegate\bin\Debug\net9.0\Delegate.deps.json
+F:\newcode\Delegate\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+F:\newcode\Delegate\Delegate\bin\Debug\net9.0\Delegate.dll
+F:\newcode\Delegate\Delegate\bin\Debug\net9.0\Delegate.pdb
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\Delegate.dll
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\Delegate.pdb
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+F:\newcode\Delegate\Delegate\obj\Debug\net9.0\ref\Delegate.dll

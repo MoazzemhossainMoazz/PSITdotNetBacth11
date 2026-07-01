@@ -1,0 +1,14 @@
+F:\newcode\DelegateCalculator\DelegateCalculator\bin\Debug\net9.0\DelegateCalculator.exe
+F:\newcode\DelegateCalculator\DelegateCalculator\bin\Debug\net9.0\DelegateCalculator.deps.json
+F:\newcode\DelegateCalculator\DelegateCalculator\bin\Debug\net9.0\DelegateCalculator.runtimeconfig.json
+F:\newcode\DelegateCalculator\DelegateCalculator\bin\Debug\net9.0\DelegateCalculator.dll
+F:\newcode\DelegateCalculator\DelegateCalculator\bin\Debug\net9.0\DelegateCalculator.pdb
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\DelegateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\DelegateCalculator.AssemblyInfoInputs.cache
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\DelegateCalculator.AssemblyInfo.cs
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\DelegateCalculator.csproj.CoreCompileInputs.cache
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\DelegateCalculator.dll
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\refint\DelegateCalculator.dll
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\DelegateCalculator.pdb
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\DelegateCalculator.genruntimeconfig.cache
+F:\newcode\DelegateCalculator\DelegateCalculator\obj\Debug\net9.0\ref\DelegateCalculator.dll

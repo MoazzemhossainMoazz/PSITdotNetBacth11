@@ -1,0 +1,14 @@
+F:\newcode\FunctionCalculator\FunctionCalculator\bin\Debug\net9.0\FunctionCalculator.exe
+F:\newcode\FunctionCalculator\FunctionCalculator\bin\Debug\net9.0\FunctionCalculator.deps.json
+F:\newcode\FunctionCalculator\FunctionCalculator\bin\Debug\net9.0\FunctionCalculator.runtimeconfig.json
+F:\newcode\FunctionCalculator\FunctionCalculator\bin\Debug\net9.0\FunctionCalculator.dll
+F:\newcode\FunctionCalculator\FunctionCalculator\bin\Debug\net9.0\FunctionCalculator.pdb
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\FunctionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\FunctionCalculator.AssemblyInfoInputs.cache
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\FunctionCalculator.AssemblyInfo.cs
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\FunctionCalculator.csproj.CoreCompileInputs.cache
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\FunctionCalculator.dll
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\refint\FunctionCalculator.dll
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\FunctionCalculator.pdb
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\FunctionCalculator.genruntimeconfig.cache
+F:\newcode\FunctionCalculator\FunctionCalculator\obj\Debug\net9.0\ref\FunctionCalculator.dll

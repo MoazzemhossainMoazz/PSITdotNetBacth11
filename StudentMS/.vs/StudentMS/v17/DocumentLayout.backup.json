@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\newcode\\StudentMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\migrations\\20260725061443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\migrations\\20260725061443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\studentms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\studentms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|f:\\newcode\\studentms\\studentms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E77433C-DAFB-4F83-BC59-0E91E92578DA}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1309131781:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Delete.cshtml*",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T06:45:33.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Details.cshtml",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T06:43:13.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T06:39:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Create.cshtml",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T06:37:02.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Index.cshtml",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T06:31:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentMS\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T06:24:56.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260725061443_init.cs",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Migrations\\20260725061443_init.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Migrations\\20260725061443_init.cs",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Migrations\\20260725061443_init.cs",
+              "RelativeToolTip": "StudentMS\\Migrations\\20260725061443_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T06:14:43.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentMS\\appsettings.json",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\appsettings.json",
+              "RelativeToolTip": "StudentMS\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-25T06:04:34.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Program.cs",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Program.cs",
+              "RelativeToolTip": "StudentMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T06:03:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentMS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T06:00:02.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentMS",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\StudentMS.csproj",
+              "RelativeDocumentMoniker": "StudentMS\\StudentMS.csproj",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\StudentMS.csproj",
+              "RelativeToolTip": "StudentMS\\StudentMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-25T05:59:42.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\newcode\\StudentMS\\StudentMS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Models\\Student.cs",
+              "ToolTip": "F:\\newcode\\StudentMS\\StudentMS\\Models\\Student.cs",
+              "RelativeToolTip": "StudentMS\\Models\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T05:58:34.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
